@@ -7,20 +7,20 @@ html{
     font-size: 16px;
     line-height: 1.6;
       /* Eb Garmand-based serif stack*/
-    font-family:  'EB Garamond','Garamond', serif;
+    font-family:  'EB Garamond','Times', serif;
 }
 html,body{
     background-color: green;
 }
 h1{
       /* open sans-based sans serif stack */
-    font-family: 'Open Sans','Alternates', sans-serif;
+    font-family: 'Open Sans','Helvetica', sans-serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
     /* open sans-based sans serif stack */
-    font-family:'Open Sans','Alternates' sans-serif;
+    font-family:'Open Sans','Helvetica', sans-serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }

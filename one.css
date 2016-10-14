@@ -7,20 +7,20 @@ html{
     font-size: 16px;
     line-height: 1.6;
     /* montserrat-based sans-serif stack */
-    font-family:'Montserrat',  'Alternates', sans-serif;
+    font-family:'Montserrat','Arial', sans-serif;
 }
 html,body{
     background-color: skyblue;
 }
 h1{
      /* Merriweater-based stack*/
-    font-family: 'Merriweather','Subrayada', serif;
+    font-family: 'Merriweather','Times', serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
      /* Merrriweather-based stack*/
-    font-family: 'Merriweather','Subrayada', serif;
+    font-family: 'Merriweather','Times', serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
